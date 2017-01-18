@@ -1,6 +1,6 @@
 /**
     Day 5: Loops
-   https://www.hackerrank.com/challenges/30-loops
+    https://www.hackerrank.com/challenges/30-loops
 
     * Given an integer, i, print first 10 multiples
     * ex:

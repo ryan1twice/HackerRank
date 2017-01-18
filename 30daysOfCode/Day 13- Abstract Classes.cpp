@@ -1,10 +1,9 @@
-import Foundation
-/*
+/**
     Day 13: Abstract Classes
     https://www.hackerrank.com/challenges/30-abstract-classes
 
     Swift does not support abstract classes
-*/
+**/
 #include <cmath>
 #include <cstdio>
 #include <vector>
